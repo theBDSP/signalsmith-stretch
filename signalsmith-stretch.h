@@ -1,3 +1,30 @@
+#pragma once
+
+/*******************************************************************************
+ The block below describes the properties of this module, and is read by
+ the Projucer to automatically generate project code that uses it.
+ For details about the syntax and how to create or use a module, see the
+ JUCE Module Format.md file.
+
+
+ BEGIN_JUCE_MODULE_DECLARATION
+
+  ID:                 signalsmith_stretch
+  vendor:             BDSP
+  version:            1.0.0
+  name:               Signal Smith Stretch
+  description:        Signal Smith's pitch shift algorithm tailored to work within BDSP context
+  website:            https://github.com/Signalsmith-Audio/signalsmith-stretch
+
+
+  dependencies:		  
+
+
+ END_JUCE_MODULE_DECLARATION
+
+*******************************************************************************/
+
+
 #ifndef SIGNALSMITH_STRETCH_H
 #define SIGNALSMITH_STRETCH_H
 
