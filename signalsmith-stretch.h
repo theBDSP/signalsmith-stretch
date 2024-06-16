@@ -10,7 +10,7 @@
  BEGIN_JUCE_MODULE_DECLARATION
 
   ID:                 signalsmith_stretch
-  vendor:             BDSP
+  vendor:             Signal Smith
   version:            1.0.0
   name:               Signal Smith Stretch
   description:        Signal Smith's pitch shift algorithm tailored to work within BDSP context
